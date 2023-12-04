@@ -1,1 +1,50 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="hero">
+        <nav>
+         <img src="logoini.png" class="logo">
+            <ul>
+                <li><a href="#home">HOME</a></li>
+                <li><a href="#about">ABOUT ME</a></li>
+                <li><a href="#pengalaman">EXPERIENCE</a></li>
+                <li><a href="#sertifikasi">SERTIFICATION</a></li>
+                <li><a href="#contact">CONTACT</a></li>
+            </ul>
+        </nav>
+        <div class="detail">
+            <h1>I'm <span>Zihni</span> Zafari</h1>
+            <h1>Networking & <span>Cloud</span> Computing</h1>
+            <p><span>Siswa di</span> SMKN 1 Nglegok, saya membuat <span>sebuah Web profile</span> dengan html</p>
+            <a href="#">Lihat CV</a>
+        </div>
+        <div class="images">
+            <img src="shape.svg" class="bentuk">
+            <img src="diana.png" class="foto">
+        </div>
+        <div class="about">
+            <div class="slide1">
+                <img src="Black and White Minimalist Interior Company Desktop Prototype.jpg">
+                <h2>About Me</h2>
+                <P>Saya Daffa, siswa Jurusan Teknik Komputer Jaringan pada SMKN 1 Nglegok.
+                    <br> menekuni bidang Cloud computing
+                    <br> mempunyai beberapa pengalaman di bidang Network, di VoIP engineer
+                </P>
+            </div>
+            <div class="slide1">
+                <img src="blackdragon.jpg">
+                <h2>Pengalaman Saya</h2>
+                <P></P>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
