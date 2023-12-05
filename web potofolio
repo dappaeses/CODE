@@ -27,8 +27,8 @@
             <a href="#">Lihat CV</a>
         </div>
         <div class="images">
-            <img src="shape.svg" class="bentuk">
-            <img src="diana.png" class="foto">
+            <img src="" class="bentuk">
+            <img src="daffa.png" class="foto">
         </div>
         <div class="about">
             <div class="slide1">
